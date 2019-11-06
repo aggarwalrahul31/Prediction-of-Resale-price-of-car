@@ -4,7 +4,7 @@ Currently if anyone wants to sell car either they have to take their car to resp
 So, the process of resale of car in not smooth. We want to smooth this process using machine learning.
 <b>Objective<b>: To predit resale price of used car.
 
-<b>Approach<b>:
+<b>Approach</b>:
 Missing Value Impute : a) New price through cardekho and zigwheels data scrap.
 b) Mean value after grouping respective brand to minimize bias as much as possible.
 
